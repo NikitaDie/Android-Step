@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">03_MoodGenerator</string>
+    <string-array name="mood_messages">
+        <item>You are awesome!</item>
+        <item>Today is your day!</item>
+        <item>Smile, you\'re amazing!</item>
+        <item>Keep shining bright!</item>
+        <item>You\'ve got this!</item>
+    </string-array>
+</resources>
